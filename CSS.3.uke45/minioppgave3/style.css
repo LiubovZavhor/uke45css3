@@ -1,0 +1,14 @@
+.sec{
+    font-family: serif;
+    display: flex;
+    border: 1px solid #000;
+    flex-direction: column;
+}
+
+.sec1 a{
+    text-decoration: none;
+    padding: 1rem;
+    background-color: steelblue;
+    color: #fff;
+    border: 1px solid white;
+}

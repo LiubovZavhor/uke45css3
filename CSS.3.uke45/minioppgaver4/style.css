@@ -1,0 +1,35 @@
+.sec1{
+    height: 68vh;
+    background-color: #000;
+    display: flex;
+}
+article{
+    background-size: cover;
+    background-position: center;
+    flex: 1;
+    padding: 1rem;
+    display: flex;
+    align-items: flex-end;
+    color: #fff;
+    font-size: 50% ;
+    transition: 15;
+}
+article:hover{
+    flex: 3;
+    font-size: 130%;
+}
+.en{
+    background-image: url(image.png);
+}
+.to{
+    background-image:url(image2.png)
+}
+.tre{
+    background-image: url(image3.png);
+}
+.fire{
+    background-image: url(image4.png);
+}
+.fem{
+    background-image: url(image5.png);
+}
